@@ -1,0 +1,12 @@
+PWD /Users/prajwal/Workspace/Masters/Semester 2/ML/ml-capstone-project/notes
+INPUT /usr/local/texlive/2020basic/texmf.cnf
+INPUT /usr/local/texlive/2020basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020basic/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/prajwal/Workspace/Masters/Semester 2/ML/ml-capstone-project/notes/Report.tex
+OUTPUT /Users/prajwal/Workspace/Masters/Semester 2/ML/ml-capstone-project/notes/Report.log
+INPUT /usr/local/texlive/2020basic/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020basic/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020basic/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2020basic/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/prajwal/Workspace/Masters/Semester 2/ML/ml-capstone-project/notes/neurips_2020.sty
+INPUT /Users/prajwal/Workspace/Masters/Semester 2/ML/ml-capstone-project/notes/neurips_2020.sty
